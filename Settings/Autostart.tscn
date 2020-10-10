@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Settings/Autostart.gd" type="Script" id=1]
+
+[node name="Autostart" type="Node"]
+script = ExtResource( 1 )
